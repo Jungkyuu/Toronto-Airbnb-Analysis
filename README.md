@@ -31,7 +31,7 @@ This project analyzes Airbnb listings data from Toronto using Python, with a foc
 | `room_type_price.png` | Bar chart showing avg price by room type |
 | `sentiment_vs_price.png` | Scatter plot of sentiment score vs price |
 | `toronto_airbnb_map.html` | Interactive map of average prices by neighbourhood |
-| `listings.csv` | Raw data file from Inside Airbnb *(not included in repo)* |
+| `listings.csv` | Raw data file from Inside Airbnb *(Included in repo)* |
 
 ## 📥 How to Use
 
